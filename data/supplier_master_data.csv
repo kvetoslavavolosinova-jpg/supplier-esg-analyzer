@@ -1,0 +1,9 @@
+Supplier_ID,Supplier_Name,DUNS_Number,Country,Registration_Status
+101, Continental AG ,12-345-6789,Germany,Complete
+102,Bosch GmbH,987654321,Germany,Complete
+103,Steel-Plast s.r.o.,,Slovakia,Incomplete
+104, Continental AG,12-345-6789,Germany,Complete
+105,Kautex Textron ,45678,Czechia,Incomplete
+106,ZF Group,88-999-1111,Germany,Complete
+107,Benteler Automotive,22-333-4444,Czechia,
+108,Hella Slovakia,55-666-7777,Slovakia,Complete

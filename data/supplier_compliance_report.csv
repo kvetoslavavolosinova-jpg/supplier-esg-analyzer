@@ -1,0 +1,9 @@
+Supplier_ID,Supplier_Name,Total_Orders,Avg_Lead_Time,On_Time_Shipments,Total_Ordered_Qty,Total_Defective_Qty,S_Rating_Score,ISO_14001_Certified,Has_Data_Quality_Issue,Country,On_Time_Delivery_Pct,Defect_Rate_Pct,Risk_Category
+101,Continental AG,2,3.5,2,2500,45,4.2,Yes,False,Germany,100.0,1.7999999999999998,Low Risk
+102,Bosch GmbH,2,12.0,0,4000,32,4.8,Yes,False,Germany,0.0,0.8,High Risk
+103,Steel-Plast s.r.o.,1,2.0,1,500,0,2.1,No,True,Slovakia,100.0,0.0,High Risk
+104,Continental AG,1,2.0,1,1200,45,,,False,Germany,100.0,3.75,Medium Risk
+105,Kautex Textron,1,14.0,0,800,12,1.8,No,True,Czechia,0.0,1.5,High Risk
+106,ZF Group,1,2.0,1,1500,5,4.0,Yes,False,Germany,100.0,0.33333333333333337,Low Risk
+107,Benteler Automotive,1,3.0,1,3000,150,3.9,Yes,True,Czechia,100.0,5.0,High Risk
+108,Hella Slovakia,1,4.0,1,1000,8,4.5,Yes,False,Slovakia,100.0,0.8,Low Risk
